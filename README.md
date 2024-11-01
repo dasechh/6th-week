@@ -1,0 +1,1 @@
+this is the code solution for 6th week
